@@ -4,7 +4,7 @@ Repo for personal portfolio, you can check live site on belo wlink :
 [Live portfolio](https://rohanl1.github.io/)
 
 ## Credits
-codewithsadee
+Forked from project from codewithsadee
 [Twitter](https://www.twitter.com/codewithsadee).
 
 ## License
